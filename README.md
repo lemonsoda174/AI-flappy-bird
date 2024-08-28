@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e8f04e6-79d5-4721-897b-498263bf75f1)# Visualization of AI learning the game "Flappy Bird"
+# Visualization of AI learning the game "Flappy Bird"
 
 This project is created with Python and the use of NEAT, a module that supports implementation of NeuroEvolution of Augmenting Topologies (NEAT) into my project.
 
